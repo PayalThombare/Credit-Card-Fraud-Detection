@@ -1,0 +1,18 @@
+List of  Python Libraries to Run the Project 
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+imbalanced-learn>=0.11
+matplotlib>=3.7
+seaborn>=0.12
+joblib>=1.3
+jupyter>=1.0
+notebook>=7.0
+
+# Optional (Phase 7 interpretation / Phase 8 deployment sketches)
+
+shap>=0.44
+fastapi>=0.104
+uvicorn>=0.24
+streamlit>=1.28
